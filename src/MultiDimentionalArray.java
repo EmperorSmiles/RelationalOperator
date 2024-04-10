@@ -11,6 +11,7 @@ public class MultiDimentionalArray{
                 System.out.print(marks[i][j] + "\t");
             }}
         System.out.println();
+
 }
 }
 
