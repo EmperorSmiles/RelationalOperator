@@ -30,8 +30,9 @@ public class SwitchCases {
                 break;
 
             default:
-                System.out.println("Only paid members can access this feature");
+                System.out.println("Only paid members can access this feature!");
                 break;
+
         }
     }
 }
