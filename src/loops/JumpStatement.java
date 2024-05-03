@@ -9,7 +9,6 @@ public class JumpStatement {
         while (!input.equals("quit")) {
             System.out.print("Enter Message: ");
             input = scanner.nextLine().toLowerCase();
-
             if (input.equals("quit"))
                 break;
             if (input.equals("pass"))
